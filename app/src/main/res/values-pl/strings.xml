@@ -1,0 +1,24 @@
+<resources>
+    <string name="sign_in">Zaloguj się</string>
+    <string name="password">Hasło</string>
+    <string name="repeat_password">Powtórz hasło</string>
+    <string name="register">Zarejestruj się</string>
+    <string name="registration">Rejestracja</string>
+    <string name="error_username_short">Nazwa użytkownika jest za krótka</string>
+    <string name="passwords_not_matching">Podane hasła są różne</string>
+    <string name="error_password_short">Hasło jest za krótkie</string>
+    <string name="username">Nazwa użytkownika</string>
+    <string name="incorrect_credentials">Niepoprawna nazwa użtkownika lub hasło</string>
+    <string name="user_not_found">Nie znaleziono użytkownika</string>
+    <string name="request_sent">Wysłano zaproszenie</string>
+    <string name="contacts">Kontakty</string>
+    <string name="add_contact">Dodaj kontakt</string>
+    <string name="message">Wiadomość</string>
+    <string name="send">Wyślij</string>
+    <string name="action_requests">Zaproszenia do kontaktów</string>
+    <string name="action_logout">Wyloguj się</string>
+    <string name="confirm_request">Czy chcesz dodać użytkownika \"%s\" do swoich kontaktów?</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="error">Błąd</string>
+</resources>

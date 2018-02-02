@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">Chat</string>
+
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="registration">Registration</string>
+    <string name="username">Username</string>
+    <string name="error_username_short">Username too short</string>
+    <string name="error_password_short">Password too short</string>
+    <string name="passwords_not_matching">Passwords not matching</string>
+    <string name="incorrect_credentials">Wrong username or password</string>
+    <string name="user_not_found">User not found</string>
+    <string name="request_sent">Contact request sent</string>
+    <string name="contacts">Contacts</string>
+    <string name="add_contact">Add contact</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="action_requests">Contact requests</string>
+    <string name="action_logout">Log out</string>
+    <string name="confirm_request">Do you want to add user \"%s\" to your contacts?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="error">Error</string>
+
+</resources>
